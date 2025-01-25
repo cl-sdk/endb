@@ -104,3 +104,6 @@
 [submodule "sqlacidtest"]
 	path = sqlacidtest
 	url = https://github.com/sqlstandardsproject/sqlacidtest
+[submodule "_build/random-state"]
+	path = _build/random-state
+	url = https://github.com/Shinmera/random-state.git
